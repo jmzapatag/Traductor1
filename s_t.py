@@ -13,8 +13,8 @@ from gtts import gTTS
 from googletrans import Translator
 
 
-st.title("Interfaces Multimodales")
-st.subheader("TRADUCTOR")
+st.title("Traductor por Voz")
+st.subheader("Juan Manuel Zapata Giraldo")
 
 
 image = Image.open('traductor.jpg')
